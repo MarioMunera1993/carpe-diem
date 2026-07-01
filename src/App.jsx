@@ -9,6 +9,9 @@ function App() {
       <h1 class="text-3xl font-bold underline">
         Hola mundo
       </h1>
+      <h2>
+        Prueba
+      </h2>
 
     </>
   )
